@@ -51,7 +51,8 @@ PIN DIAGRAM
 <img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/635c9837-d5f5-4d6f-acc9-8a47a4368230" />
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
-<img width="779" height="440" alt="image" src="https://github.com/user-attachments/assets/a14d8bc1-9dc7-4a49-98b0-f5320f450a63" />
+![WhatsApp Image 2025-11-30 at 21 18 34_9f1b0f54](https://github.com/user-attachments/assets/01219ad3-9d79-45e9-ba26-fc8e7fb66d14)
+
 
 MODEL GRAPH 
 
@@ -82,19 +83,17 @@ Inverting amplifier:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[-(Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |			
- 
+![WhatsApp Image 2025-11-30 at 21 19 22_a99bf7e0](https://github.com/user-attachments/assets/e372b8b0-63be-4cde-b114-37de5565be75)
+
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-11-30 at 21 19 23_f645dabe](https://github.com/user-attachments/assets/5966d0da-9a54-4ba7-a70f-5df3316bfd3f)
 
 ---
+
 ### **Non-Inverting Amplifier**
 
 If the signal is applied to the non-inverting input terminal without inversion, it is called a **non-inverting amplifier**.  
@@ -109,7 +108,7 @@ ACL = 1 + RF/R1
 ## CIRCUIT DIAGRAM
 
 
-<img width="704" height="397" alt="image" src="https://github.com/user-attachments/assets/1b4b170f-cf21-4fa9-9dc7-96db30b3c153" />
+![WhatsApp Image 2025-11-30 at 21 22 16_96db68e7](https://github.com/user-attachments/assets/7f833c2a-230c-4286-a7eb-d2b32ae992d1)
 
 ---
 
@@ -130,14 +129,13 @@ PROCEDURE:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[1 + (Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![WhatsApp Image 2025-11-30 at 21 22 16_f0affc01](https://github.com/user-attachments/assets/885fa4d8-7583-4eab-b775-57981e56781c)
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+![WhatsApp Image 2025-11-30 at 21 22 19_9b2454b1](https://github.com/user-attachments/assets/995c9512-c495-4b79-945a-db3948febb45)
 
 
 ---
@@ -150,7 +148,7 @@ If the two input signals are identical, the output is ideally **zero**.
 
 A = Vo/{V2 - V1} = -Rf/R1
 ## CIRCUIT DIAGRAM
-<img width="706" height="522" alt="image" src="https://github.com/user-attachments/assets/917f2544-3735-4a23-a9b7-1264966d0d20" />
+![WhatsApp Image 2025-11-30 at 21 25 02_b25d0531](https://github.com/user-attachments/assets/557c8cbb-2a5d-40ed-ab05-4b57e1963947)
 
 ## MODEL GRAPH
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/6aa1b9dd-b112-4be1-a37a-d5ee19607b1d" />
@@ -186,15 +184,13 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ## TABULATION (Differential Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (-Rf/R1)(V1 - V2) (V) | Theoretical | Practical |
-|------|---------|---------|-----------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![WhatsApp Image 2025-11-30 at 21 25 04_11f02ee7](https://github.com/user-attachments/assets/dfadce5d-ebfd-4e7e-bcff-23c8611fa0eb)
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-11-30 at 21 25 22_65880943](https://github.com/user-attachments/assets/1e48972f-981e-4b89-bc55-32c1a02459a5)
 
 ---
 ## INSTRUMENTATION AMPLIFIER
@@ -209,7 +205,7 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 
-<img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
+![WhatsApp Image 2025-11-30 at 21 25 24_5aaf31b4](https://github.com/user-attachments/assets/ba2a6ab7-0e34-4b70-b5e6-999064851711)
 
 PROCEDURE:
 
@@ -225,14 +221,13 @@ PROCEDURE:
 
 ## TABULATION (Instrumentation Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (Rf / R1) [1 + (2R’ / R)] (V2 – V1) (V) | Theoretical | Practical |
-|------|---------|---------|----------------------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![WhatsApp Image 2025-11-30 at 21 25 25_a3a02791](https://github.com/user-attachments/assets/350c9557-3f1b-400b-8e3f-e70e587103ac)
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+![WhatsApp Image 2025-11-30 at 21 25 26_70f34485](https://github.com/user-attachments/assets/f5299fa5-04d8-4ec9-a01c-ec703e311e1f)
 
 
 ---
