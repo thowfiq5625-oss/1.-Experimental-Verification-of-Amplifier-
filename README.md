@@ -61,13 +61,8 @@ MODEL GRAPH
 
 
 DESIGN:
+![WhatsApp Image 2025-12-04 at 10 58 21_7ec026f3](https://github.com/user-attachments/assets/d2fc0437-5ea7-4229-b7c4-dbe9253b7686)
 
-Inverting amplifier:
-
-A = -Rf/R1
-Take  A = 10
-Rf =10 R1
-Choose R1 = 1kΩ, Rf=10kΩ
 
 PROCEDURE:
 Inverting amplifier:
@@ -157,15 +152,8 @@ A = Vo/{V2 - V1} = -Rf/R1
 
 ## DESIGN
 
+![WhatsApp Image 2025-12-04 at 10 58 21_7ec026f3](https://github.com/user-attachments/assets/701811b4-8e23-4f71-b82d-aae5dac88d3d)
 
-### **Differential Amplifier**
-
-AV = Vo/{V1 - V2} = -Rf/R1
-
-
-Take  A = 10 
-⇒  Rf = 10R1   
-Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ---
 
